@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://songofroland.github.io/rblog'
 languageCode = 'en-us'
 title = 'The blog of Roland'
 theme = 'hugo-blog-awesome'
@@ -17,7 +17,7 @@ url = "index.xml"
 
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable  Google Analytics, simply leave the field empty or remove the next line
-googleAnalytics = '' # G-MEASUREMENT_ID
+googleAnalytics = 'G-MDRDQFP2RH' # G-MEASUREMENT_ID
 
 # Enable emojis globally
 enableEmoji = true
