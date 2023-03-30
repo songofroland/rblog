@@ -2,6 +2,7 @@ baseURL = 'https://songofroland.github.io/rblog'
 languageCode = 'en-us'
 title = 'The blog of Roland'
 theme = 'hugo-blog-awesome'
+googleAnalytics = 'G-MDRDQFP2RH' # G-MEASUREMENT_ID
 
 [[params.socialIcons]]
 name = "github"
@@ -14,10 +15,6 @@ url = "https://twitter.com/RJaloszynski"
 [[params.socialIcons]]
 name = "Rss"
 url = "index.xml"
-
-# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
-# To disable  Google Analytics, simply leave the field empty or remove the next line
-googleAnalytics = 'G-MDRDQFP2RH' # G-MEASUREMENT_ID
 
 # Enable emojis globally
 enableEmoji = true
@@ -58,4 +55,4 @@ enableEmoji = true
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "The blog of Roland"
   name = "Roland Jaloszynski"
-  description = "Sharing is caring and I care about you all."
+  description = "Because sharing is caring and I care about you all."
