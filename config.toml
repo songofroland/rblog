@@ -2,7 +2,8 @@ baseURL = 'https://songofroland.github.io/rblog'
 languageCode = 'en-us'
 title = 'The blog of Roland'
 theme = 'hugo-blog-awesome'
-googleAnalytics = 'G-MDRDQFP2RH' # G-MEASUREMENT_ID
+googleAnalytics = 'G-MDRDQFP2RH'
+enableEmoji = true
 
 [[params.socialIcons]]
 name = "github"
@@ -15,9 +16,6 @@ url = "https://twitter.com/RJaloszynski"
 [[params.socialIcons]]
 name = "Rss"
 url = "index.xml"
-
-# Enable emojis globally
-enableEmoji = true
 
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
@@ -32,7 +30,7 @@ enableEmoji = true
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
     name = 'Home'
-    url = '/'
+    url = '/rblog/'
     weight = 10
   [[menu.main]]
     pageRef="posts"
