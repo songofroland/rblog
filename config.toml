@@ -1,4 +1,4 @@
-baseURL = 'https://songofroland.github.io/rblog'
+baseURL = 'https://blog.rjaloszynski.com'
 languageCode = 'en-us'
 title = 'The blog of Roland'
 theme = 'hugo-blog-awesome'
